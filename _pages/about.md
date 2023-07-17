@@ -39,7 +39,7 @@ Publications
           </font>
           <br>
           <a href="https://arxiv.org/abs/2301.10938">arXiv</a>
-          &nbsp/&nbsp
+          " / "
           <a href="https://github.com/HUSTDML/CTTrack">Code</a>
           <p></p>
           <p>
@@ -57,7 +57,7 @@ Publications
           <em>CVPR</em>, 2022
           <br>
           <a href="https://arxiv.org/abs/2205.03806">arXiv</a>
-          &nbsp/&nbsp
+          " / "
           <a href="https://github.com/SkyeSong38/CSWinTT">Code</a>
           <p></p>
           <p>
