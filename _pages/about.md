@@ -74,6 +74,8 @@ Publications
           <br>
           <em>ICMR</em>, 2021
           <br>
+          <a href="http://media.hust.edu.cn/dataset.htm">Project Page</a>
+          /
           <a href="https://dl.acm.org/doi/abs/10.1145/3460426.3463629">Paper</a>
           <p></p>
           <p>
@@ -98,9 +100,39 @@ Publications
         </td>
     </tr>
    <tr>
-        <td >行5列二</td>  
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/SSET.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="https://www.researchgate.net/profile/Zikai-Song-2/publication/343520973_SSET_a_dataset_for_shot_segmentation_event_detection_player_tracking_in_soccer_videos/links/627778df2f9ccf58eb3703ec/SSET-a-dataset-for-shot-segmentation-event-detection-player-tracking-in-soccer-videos.pdf">SSET: a dataset for shot segmentation, event detection, player tracking in soccer videos</a>
+          <br>
+          Na Feng, <strong>Zikai Song</strong>, Junqing Yu, Yi-Ping Phoebe Chen, Yizhu Zhao, Yunfeng He, Tao Guan
+          <br>
+          <em>Multimedia Tools and Applications</em>, 2020
+          <br>
+          <a href="http://media.hust.edu.cn/dataset.htm">Project Page</a>
+          /
+          <a href="https://www.researchgate.net/profile/Zikai-Song-2/publication/343520973_SSET_a_dataset_for_shot_segmentation_event_detection_player_tracking_in_soccer_videos/links/627778df2f9ccf58eb3703ec/SSET-a-dataset-for-shot-segmentation-event-detection-player-tracking-in-soccer-videos.pdf">Paper</a>
+          <p></p>
+          <p>
+            We construct a soccer dataset named Soccer Dataset for Shot, Event, and Tracking, to meet the research needs of shot segmentation, event detection and player tracking
+          </p>
+        </td>
     </tr>
    <tr>
-        <td >行6列二</td>  
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/MIPR.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="https://www.researchgate.net/profile/Zikai-Song-2/publication/326047906_Comprehensive_Dataset_of_Broadcast_Soccer_Videos/links/627779b1b1ad9f66c8ab509d/Comprehensive-Dataset-of-Broadcast-Soccer-Videos.pdf">Comprehensive dataset of broadcast soccer videos</a>
+          <br>
+          Junqing Yu, Aiping Lei, <strong>Zikai Song</strong>, Tingting Wang, Hengyou Cai, Na Feng
+          <br>
+          <em>MIPR</em>, 2018
+          <br>
+          <a href="http://media.hust.edu.cn/dataset.htm">Project Page</a>
+          /
+          <a href="https://www.researchgate.net/profile/Zikai-Song-2/publication/326047906_Comprehensive_Dataset_of_Broadcast_Soccer_Videos/links/627779b1b1ad9f66c8ab509d/Comprehensive-Dataset-of-Broadcast-Soccer-Videos.pdf">Paper</a>
+          <p></p>
+          <p>
+            We have designed and developed a sports video search engine based on distributed architecture, which aims to provide users with content-based video analysis and retrieval services.
+          </p>
+        </td>
     </tr>
 </table>
