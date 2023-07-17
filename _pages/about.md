@@ -26,7 +26,7 @@ Publications
 ======
 
 <table style="border:none">
-    <tr>
+    <tr style="border:none">
         <td varlign="middle" width="25%"> <img src="https://skyesong38.github.io/images/cttrack.png" /> </td>
         <td varlign="middle" width="75%">
           <a href="https://arxiv.org/abs/2301.10938">Compact Transformer Tracker with Correlative Masked Modeling</a>
@@ -47,7 +47,7 @@ Publications
           </p>
         </td>
     </tr>
-    <tr>
+    <tr style="border:none">
         <td varlign="middle" width="25%"> <img src="https://skyesong38.github.io/images/cswintt.png" /> </td>
         <td varlign="middle" width="75%">
           <a href="https://arxiv.org/abs/2205.03806">Transformer Tracking with Cyclic Shifting Window Attention</a>
@@ -65,16 +65,16 @@ Publications
           </p>
         </td>
     </tr>
-   <tr>
+   <tr style="border:none">
         <td >行3列二</td>  
     </tr>
-   <tr>
+   <tr style="border:none">
         <td >行4列二</td>  
     </tr>
-   <tr>
+   <tr style="border:none">
         <td >行5列二</td>  
     </tr>
-   <tr>
+   <tr style="border:none">
         <td >行6列二</td>  
     </tr>
 </table>
