@@ -25,10 +25,10 @@ Award and Service
 Publications
 ======
 
-<table style="border:none">
-    <tr style="border:none">
-        <td varlign="middle" width="25%"> <img src="https://skyesong38.github.io/images/cttrack.png" /> </td>
-        <td varlign="middle" width="75%">
+<table style="border-collapse:collapse">
+    <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/cttrack.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
           <a href="https://arxiv.org/abs/2301.10938">Compact Transformer Tracker with Correlative Masked Modeling</a>
           <br>
           <strong>Zikai Song</strong>, Run Luo, Junqing Yu*, Yi-Ping Phoebe Chen, Wei Yang*
@@ -47,9 +47,9 @@ Publications
           </p>
         </td>
     </tr>
-    <tr style="border:none">
-        <td varlign="middle" width="25%"> <img src="https://skyesong38.github.io/images/cswintt.png" /> </td>
-        <td varlign="middle" width="75%">
+    <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/cswintt.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
           <a href="https://arxiv.org/abs/2205.03806">Transformer Tracking with Cyclic Shifting Window Attention</a>
           <br>
           <strong>Zikai Song</strong>, Junqing Yu*, Yi-Ping Phoebe Chen, Wei Yang
@@ -65,16 +65,16 @@ Publications
           </p>
         </td>
     </tr>
-   <tr style="border:none">
+   <tr>
         <td >行3列二</td>  
     </tr>
-   <tr style="border:none">
+   <tr>
         <td >行4列二</td>  
     </tr>
-   <tr style="border:none">
+   <tr>
         <td >行5列二</td>  
     </tr>
-   <tr style="border:none">
+   <tr>
         <td >行6列二</td>  
     </tr>
 </table>
