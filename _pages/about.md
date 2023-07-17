@@ -25,7 +25,7 @@ Award and Service
 Publications
 ======
 
-<table style="border-collapse:collapse">
+<table style="border-collapse:collapse; border:none">
     <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/cttrack.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
