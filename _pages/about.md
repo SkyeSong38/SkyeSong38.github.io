@@ -12,15 +12,15 @@ I am an PhD Student at the [School of Computer Science, Huazhong University of S
 
 Education
 ======
-* B.S. in [Computer Science, University of Electronic Science and Technology of China(UESTC)](https://www.en.scse.uestc.edu.cn), 2016
-* M.S. in [Computer Science, Huazhong University of Science and Technology(HUST)](https://cs.hust.edu.cn), 2019
-* Ph.D in [Computer Science, Huazhong University of Science and Technology(HUST)](https://cs.hust.edu.cn), 2023 (expected)
+* B.S. in [Computer Science, University of Electronic Science and Technology of China](https://www.en.scse.uestc.edu.cn), 2016
+* M.S. in [Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2019
+* Ph.D in [Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2023 (expected)
 
 Award and Service
 ======
 * ACM Chengdu Chapter Outstanding Student
 * Outstanding Doctoral Scholarship
-* Reviewer: CVPR23, ICCV23, TCSVT
+* Reviewer : CVPR23, ICCV23, TCSVT
 
 Publications
 ======
