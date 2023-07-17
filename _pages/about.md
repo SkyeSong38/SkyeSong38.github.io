@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in [Computer Science, University of Electronic Science and Technology of China](https://www.en.scse.uestc.edu.cn), 2016
 * M.S. in [Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2019
-* Ph.D in [Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2023 (expected)
+* Ph.D in [Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2023
 
 Award and Service
 ======
@@ -25,7 +25,7 @@ Award and Service
 Publications
 ======
 
-<table border="0">
+<table style="border:none">
     <tr>
         <td varlign="middle" width="25%"> <img src="https://skyesong38.github.io/images/cttrack.png" /> </td>
         <td varlign="middle" width="75%">
