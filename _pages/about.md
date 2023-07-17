@@ -33,8 +33,7 @@ Publications
           <br>
           <strong>Zikai Song</strong>, Run Luo, Junqing Yu*, Yi-Ping Phoebe Chen, Wei Yang*
           <br>
-          <em>AAAI<em>
-            ",2023"
+          <em>AAAI</em>,2023
           <font color="tomato">
             <strong>(Oral Presentation)</strong>
           </font>
@@ -55,8 +54,7 @@ Publications
           <br>
           <strong>Zikai Song</strong>, Junqing Yu*, Yi-Ping Phoebe Chen, Wei Yang
           <br>
-          <em>CVPR<em>
-            ",2022"
+          <em>CVPR</em>, 2022
           <br>
           <a href="https://arxiv.org/abs/2205.03806">arXiv</a>
           &nbsp/&nbsp
