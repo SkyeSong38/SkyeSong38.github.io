@@ -131,7 +131,7 @@ Publications
           <a href="https://www.researchgate.net/profile/Zikai-Song-2/publication/326047906_Comprehensive_Dataset_of_Broadcast_Soccer_Videos/links/627779b1b1ad9f66c8ab509d/Comprehensive-Dataset-of-Broadcast-Soccer-Videos.pdf">Paper</a>
           <p></p>
           <p>
-            We have designed and developed a sports video search engine based on distributed architecture, which aims to provide users with content-based video analysis and retrieval services.
+            We focus on broadcast soccer videos and present a comprehensive dataset for analysis, including shot boundaries, event annotations, and bounding boxes.
           </p>
         </td>
     </tr>
