@@ -66,10 +66,36 @@ Publications
         </td>
     </tr>
    <tr>
-        <td >行3列二</td>  
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ICMR21.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="https://dl.acm.org/doi/abs/10.1145/3460426.3463629">Distractor-Aware Tracker with a Domain-Special Optimized Benchmark for Soccer Player Tracking</a>
+          <br>
+          <strong>Zikai Song</strong>, Zhiwen Wan, Wei Yuan, Ying Tang, Junqing Yu, Yi-Ping Phoebe Chen
+          <br>
+          <em>ICMR</em>, 2021
+          <br>
+          <a href="https://dl.acm.org/doi/abs/10.1145/3460426.3463629">Paper</a>
+          <p></p>
+          <p>
+            We proposed a distractor-aware player tracking algorithm and a high-quality benchmark for soccer play tracking, deal with occlusion and similar distractors in soccer scenes.
+          </p>
+        </td>
     </tr>
    <tr>
-        <td >行4列二</td>  
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/MMM20.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="https://dl.acm.org/doi/abs/10.1145/3460426.3463629">Fine-Grain Level Sports Video Search Engine</a>
+          <br>
+          <strong>Zikai Song</strong>, Junqing Yu, Hengyou Cai, Yangliu Hu, Yi-Ping Phoebe Chen
+          <br>
+          <em>MultiMedia Modeling</em>, 2020
+          <br>
+          <a href="https://link.springer.com/chapter/10.1007/978-3-030-37731-1_42">Paper</a>
+          <p></p>
+          <p>
+            We designed and developed a sports video search engine based on distributed architecture, aimimng to provide content-based video analysis and retrieval services
+          </p>
+        </td>
     </tr>
    <tr>
         <td >行5列二</td>  
