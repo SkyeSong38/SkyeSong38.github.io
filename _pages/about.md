@@ -12,13 +12,13 @@ I am an Post-Doctor at the [School of Computer Science, Huazhong University of S
 
 Education
 ======
-* B.S. in [Computer Science, University of Electronic Science and Technology of China](https://www.en.scse.uestc.edu.cn), 2012~2016
-* M.S. in [Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2016~2019
-* Ph.D in [Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2019~2023
+* B.S. in [University of Electronic Science and Technology of China](https://www.en.scse.uestc.edu.cn), 2012~2016
+* M.S. in [Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2016~2019
+* Ph.D in [Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2019~2023
 
 Award and Service
 ======
-* ACM Chengdu Chapter Outstanding Student
+* ACM Outstanding Student
 * Outstanding Doctoral Scholarship
 * Reviewer : CVPR23/24/25, ICCV23, ECCV24, AAAI24/25, NIPS24, ICLR25, ACM MM24, IJCAI24, TIP, TCSVT, TMM
 
