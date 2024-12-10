@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : 
 title_separator          : "-"
 name                     : &name "Zikai Song"
-description              : &description "PhD student at HUST"
+description              : &description "Post-Doctoral at HUST"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SkyeSong38.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zikai Song(宋子恺)"
   avatar           : "https://skyesong38.github.io/images/profile.jpeg"
-  bio              : "PhD student at School of Computer Science & Technology, HUST"
-  location         : 
+  bio              : "Post-Doctoral at School of Computer Science & Technology, HUST"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1qnuOZsAAAAJ"
