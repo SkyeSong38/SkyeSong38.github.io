@@ -40,7 +40,7 @@ Publications
           <a href="">Code</a>
           <p></p>
           <p>
-            We propose a section-based multi-object tracking approach that integrates a temporal coherent Object Flow Tracker (OFTrack), capable of achieving simultaneous multi-frame tracking by treating multiple consecutive frames as the basic processing unit, denoted as a “section”.
+            We propose a section-based multi-object tracking approach that integrates a temporal coherent Object Flow Tracker, capable of achieving simultaneous multi-frame tracking by treating multiple consecutive frames as the basic processing unit, denoted as a “section”.
           </p>
         </td>
     </tr>
@@ -92,7 +92,7 @@ Publications
           <a href="https://www.arxiv.org/abs/2407.20730">paper</a>
           <p></p>
           <p>
-            We introduce a novel approach leveraging language embeddings to enhance the coherence of frame-wise visual features related to the same object. We learns text embeddings from visual features through a dedicated mapping network, enabling seamless adaptation to various tracking tasks without explicit text annotations.
+            We introduce a novel approach leveraging language embeddings to enhance the coherence of frame-wise visual features related to the same object.
           </p>
         </td>
     </tr>
