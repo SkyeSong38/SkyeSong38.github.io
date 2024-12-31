@@ -19,6 +19,7 @@ News
     <li><strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to <strong><em>AAAI'25</em></strong>.</li>
     <li><strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to <strong><em>NeurIPS'24</em></strong>.</li>
     <li><strong><font color="red">2024.7</font></strong>: Our paper on Point Tracking is accepted to <strong><em>ACM MM'24</em></strong>.</li>
+    <li><strong><font color="red">2024.3</font></strong>: Our paper on Feature Compress is accepted to <strong><em>ICME'24</em></strong>.</li>
   </ul>
 </div>
 
