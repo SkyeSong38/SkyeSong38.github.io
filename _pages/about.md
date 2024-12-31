@@ -14,9 +14,9 @@ I major in Computer Science and my research interests lie in the areas of **comp
 
 News
 ---
-*<font color="red">**2024.12**</font>, Our Two papers on Multi-Object Tracking/Anomaly Detection are accepted to **AAAI'25**.
-*<font color="red">**2024.9**</font>, Our paper on Multimodal Tech is accepted to **NeurIPS'24**.
-*<font color="red">**2024.7**</font>, Our paper on Point Tracking is accepted to **ACM MM'24**.
+* <font color="red">**2024.12**</font>, Our Two papers on Multi-Object Tracking/Anomaly Detection are accepted to **AAAI'25**.
+* <font color="red">**2024.9**</font>, Our paper on Multimodal Tech is accepted to **NeurIPS'24**.
+* <font color="red">**2024.7**</font>, Our paper on Point Tracking is accepted to **ACM MM'24**.
 
 Education
 ---
@@ -286,7 +286,7 @@ Publications
 
 Project
 ---
-2023 入选国家资助博士后计划
-2024 主持中国博士后科学基金面上项目
-2025 主持国家自然青年科学基金
-2025 主持湖北省博新计划项目
+* 2023 入选国家资助博士后计划
+* 2024 主持中国博士后科学基金面上项目
+* 2025 主持国家自然青年科学基金
+* 2025 主持湖北省博新计划项目
