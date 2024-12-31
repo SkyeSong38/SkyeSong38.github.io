@@ -14,9 +14,9 @@ I major in Computer Science and my research interests lie in the areas of **comp
 
 News
 ---
-* <font color="red"><strong>2024.12</strong></font>: Our Two papers on Tracking/Anomaly Detection are accepted to **AAAI'25**.
-* <font color="red"><strong>2024.9</strong></font>: Our paper on Multimodal Tech is accepted to **NeurIPS'24**.
-* <font color="red"><strong>2024.7</strong></font>: Our paper on Point Tracking is accepted to **ACM MM'24**.
+* <strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to **AAAI'25**.
+* <strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to **NeurIPS'24**.
+* <strong><font color="red">2024.7</font></strong>: Our paper on Point Tracking is accepted to **ACM MM'24**.
 
 Education
 ---
