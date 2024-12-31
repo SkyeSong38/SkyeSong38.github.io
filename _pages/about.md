@@ -8,22 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am an Post-Doctor at the [School of Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), in the [HUST Media Lab](http://media.hust.edu.cn). I major in Computer Science and my research interests lie in the areas of computer vision, motion estimation, and social network analysis.
+I am a Post-Doctor at the [School of Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), in the [HUST Media Lab](http://media.hust.edu.cn), under the supervision of <font color="blue">Prof. Junqing Yu</font>. I am currently as an visiting scholar at the [National University of Singapore](https://www.nus.edu.sg), under the supervision of <font color="blue">[Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)</font>.
+
+I major in Computer Science and my research interests lie in the areas of **computer vision**, **motion estimation**, and **social network analysis**.
+
+News
+---
+*<font color="red">**2024.12**</font>, Our Two papers on Multi-Object Tracking/Anomaly Detection are accepted to **AAAI'25**.
+*<font color="red">**2024.9**</font>, Our paper on Multimodal Tech is accepted to **NeurIPS'24**.
+*<font color="red">**2024.7**</font>, Our paper on Point Tracking is accepted to **ACM MM'24**.
 
 Education
-======
+---
 * B.S. in [University of Electronic Science and Technology of China](https://www.en.scse.uestc.edu.cn), 2012~2016
 * M.S. in [Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2016~2019
 * Ph.D in [Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2019~2023
 
 Award and Service
-======
+---
 * ACM Outstanding Student
 * Outstanding Doctoral Scholarship
-* Reviewer : CVPR23/24/25, ICCV23, ECCV24, AAAI24/25, NIPS24, ICLR25, ACM MM24, IJCAI24, TIP, TCSVT, TMM
+* Conference PC/Reviewers : CVPR23/24/25, ICCV23, ECCV24, AAAI24/25, NIPS24, ICLR25, ACM MM24, IJCAI24
+* Journal Reviewers : TIP, TCSVT, TMM, KBS, SIGPRO
 
 Publications
-======
+---
 
 <table style="border-collapse:collapse; border:none">
   <tr>
@@ -274,3 +283,10 @@ Publications
         </td>
     </tr>
 </table>
+
+Project
+---
+2023 入选国家资助博士后计划
+2024 主持中国博士后科学基金面上项目
+2025 主持国家自然青年科学基金
+2025 主持湖北省博新计划项目
