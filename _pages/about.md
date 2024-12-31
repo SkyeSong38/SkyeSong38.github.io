@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doctor at the [School of Computer Science, Huazhong University of Science and Technology](https://cs.hust.edu.cn), in the [HUST Media Lab](http://media.hust.edu.cn), under the supervision of <a href="http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm"><font color="blue">Prof. Junqing Yu</font></a>. I am currently as an visiting scholar at the [National University of Singapore](https://www.nus.edu.sg), under the supervision of <a href="https://sites.google.com/site/sitexinchaowang"><font color="blue">Prof. Xinchao Wang</font></a>.
+I am a Post-Doctor at the <a href="https://cs.hust.edu.cn"><font color="blue">Huazhong University of Science and Technology</font></a>, in the <a href="http://media.hust.edu.cn"><font color="blue">HUST Media Lab</font></a>, under the supervision of <a href="http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm"><font color="blue">Prof. Junqing Yu</font></a>. I am currently as an visiting scholar at the <a href="https://www.nus.edu.sg"><font color="blue">National University of Singapore</font></a>, under the supervision of <a href="https://sites.google.com/site/sitexinchaowang"><font color="blue">Prof. Xinchao Wang</font></a>.
 
 I major in Computer Science and my research interests lie in the areas of **computer vision**, **motion estimation**, and **social network analysis**.
 
