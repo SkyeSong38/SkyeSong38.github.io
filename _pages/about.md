@@ -14,7 +14,7 @@ I major in Computer Science and my research interests lie in the areas of **comp
 
 News
 ---
-<div style="height: 160px; overflow: auto">
+<div style="height: 170px; overflow: auto">
   <ul>
     <li><strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to <strong><em>AAAI'25</em></strong>.</li>
     <li><strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to <strong><em>NeurIPS'24</em></strong>.</li>
