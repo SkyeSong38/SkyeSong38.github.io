@@ -54,7 +54,7 @@ Publications
           <br>
           <a href="">paper</a>
           /
-          <a href="">Code</a>
+          <a href="">code</a>
           <p></p>
           <p>
             We propose a Self-Supervised Fragment FineTuning (SF2T), a novel effortless fine-tuning method, employs the rich inherent characteristics of videos for training, while unlocking more fine-grained understanding ability of Video-LLMs. 
@@ -72,7 +72,7 @@ Publications
           <br>
           <a href="https://arxiv.org/pdf/2412.00905">paper</a>
           /
-          <a href="">Code</a>
+          <a href="">code</a>
           <p></p>
           <p>
             We introduce Ref-GS, a novel approach for directional light factorization in 2D Gaussian splatting, which enables photorealistic view-dependent appearance rendering and precise geometry recovery. 
@@ -90,7 +90,7 @@ Publications
           <br>
           <a href="">paper</a>
           /
-          <a href="">Code</a>
+          <a href="">code</a>
           <p></p>
           <p>
             We propose a section-based multi-object tracking approach that integrates a temporal coherent Object Flow Tracker, capable of achieving simultaneous multi-frame tracking by treating multiple consecutive frames as the basic processing unit, denoted as a “section”.
@@ -108,7 +108,7 @@ Publications
           <br>
           <a href="">paper</a>
           /
-          <a href="">Code</a>
+          <a href="">code</a>
           <p></p>
           <p>
             We introduce innovative motion and appearance conditions that are seamlessly integrated into our patch diffusion model.
@@ -126,7 +126,7 @@ Publications
           <br>
           <a href="https://arxiv.org/pdf/2405.18014">paper</a>
           /
-          <a href="https://github.com/hustcselwb/coupled-mamba">Code</a>
+          <a href="https://github.com/hustcselwb/coupled-mamba">code</a>
           <p></p>
           <p>
             We propose the Coupled SSM model, for coupling state chains of multiple modalities while maintaining independence of intra-modality state processes.
@@ -192,7 +192,7 @@ Publications
           <br>
           <a href="https://arxiv.org/abs/2309.09466">arXiv</a>
           /
-          <a href="https://github.com/babahui/Progressive-Text-to-Image">Code</a>
+          <a href="https://github.com/babahui/Progressive-Text-to-Image">code</a>
           <p></p>
           <p>
             We propose to harness the capabilities of a Large Language Model (LLM) to decompose text descriptions into coherent directives adhering to stringent formats and progressively generate the target image.
@@ -210,7 +210,7 @@ Publications
           <br>
           <a href="https://arxiv.org/abs/2308.09905">arXiv</a>
           /
-          <a href="https://github.com/RainBowLuoCS/DiffusionTrack">Code</a>
+          <a href="https://github.com/RainBowLuoCS/DiffusionTrack">code</a>
           <p></p>
           <p>
             We formulates object detection and association jointly as a consistent denoising diffusion process from paired noise boxes to paired ground-truth boxes.
@@ -231,7 +231,7 @@ Publications
           <br>
           <a href="https://arxiv.org/abs/2301.10938">arXiv</a>
           /
-          <a href="https://github.com/HUSTDML/CTTrack">Code</a>
+          <a href="https://github.com/HUSTDML/CTTrack">code</a>
           <p></p>
           <p>
             We demonstrate the basic vision transformer (ViT) architecture is sufficient for visual tracking with correlative masked modeling for information aggregation enhancement.
@@ -249,7 +249,7 @@ Publications
           <br>
           <a href="https://arxiv.org/abs/2205.03806">arXiv</a>
           /
-          <a href="https://github.com/SkyeSong38/CSWinTT">Code</a>
+          <a href="https://github.com/SkyeSong38/CSWinTT">code</a>
           <p></p>
           <p>
             CSWinTT is a new transformer architecture with multi-scale cyclic shifting window attention for visual object tracking, elevating the attention from pixel to window level.
@@ -267,7 +267,7 @@ Publications
           <br>
           <a href="http://media.hust.edu.cn/dataset.htm">Project Page</a>
           /
-          <a href="https://dl.acm.org/doi/abs/10.1145/3460426.3463629">Paper</a>
+          <a href="https://dl.acm.org/doi/abs/10.1145/3460426.3463629">paper</a>
           <p></p>
           <p>
             We proposed a distractor-aware player tracking algorithm and a high-quality benchmark for soccer play tracking, deal with occlusion and similar distractors in soccer scenes.
@@ -283,7 +283,7 @@ Publications
           <br>
           <em>MultiMedia Modeling</em>, 2020
           <br>
-          <a href="https://link.springer.com/chapter/10.1007/978-3-030-37731-1_42">Paper</a>
+          <a href="https://link.springer.com/chapter/10.1007/978-3-030-37731-1_42">paper</a>
           <p></p>
           <p>
             We designed and developed a sports video search engine based on distributed architecture, aimimng to provide content-based video analysis and retrieval services
@@ -317,9 +317,9 @@ Publications
           <br>
           <em>MIPR</em>, 2018
           <br>
-          <a href="http://media.hust.edu.cn/dataset.htm">Project Page</a>
+          <a href="http://media.hust.edu.cn/dataset.htm">project</a>
           /
-          <a href="https://www.researchgate.net/profile/Zikai-Song-2/publication/326047906_Comprehensive_Dataset_of_Broadcast_Soccer_Videos/links/627779b1b1ad9f66c8ab509d/Comprehensive-Dataset-of-Broadcast-Soccer-Videos.pdf">Paper</a>
+          <a href="https://www.researchgate.net/profile/Zikai-Song-2/publication/326047906_Comprehensive_Dataset_of_Broadcast_Soccer_Videos/links/627779b1b1ad9f66c8ab509d/Comprehensive-Dataset-of-Broadcast-Soccer-Videos.pdf">paper</a>
           <p></p>
           <p>
             We focus on broadcast soccer videos and present a comprehensive dataset for analysis, including shot boundaries, event annotations, and bounding boxes.
