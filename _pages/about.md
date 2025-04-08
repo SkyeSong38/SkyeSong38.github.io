@@ -44,7 +44,25 @@ Publications
 
 <table style="border-collapse:collapse; border:none">
   <tr>
-        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/OFTrack.png" /> </td>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ICME25.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="">SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding</a>
+          <br>
+          Qilong Xing, <strong>Zikai Song*</strong>, Yuteng Ye, Yuke Chen, Youjia Zhang, Na Feng, Junqing Yu, Wei Yang*
+          <br>
+          <em>ICME</em>,2025
+          <br>
+          <a href="">paper</a>
+          /
+          <a href="">code</a>
+          <p></p>
+          <p>
+            We propose Collaborative Anatomy Diffusion (CA-Diff), a framework integrating spatial anatomical features to enhance segmentation accuracy of the diffusion model.
+          </p>
+        </td>
+    </tr>
+  <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/CVPR25_1.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
           <a href="">SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding</a>
           <br>
@@ -62,7 +80,7 @@ Publications
         </td>
     </tr>
   <tr>
-        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/OFTrack.png" /> </td>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/CVPR25_2.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
           <a href="">Ref-GS: Directional Factorization for 2D Gaussian Splatting</a>
           <br>
