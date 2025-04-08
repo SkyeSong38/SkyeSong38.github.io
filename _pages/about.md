@@ -41,7 +41,6 @@ Award and Service
 
 Publications
 ---
-
 <table style="border-collapse:collapse; border:none">
 <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ICME25.png" /> </td>
