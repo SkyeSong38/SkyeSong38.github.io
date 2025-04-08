@@ -65,7 +65,7 @@ Publications
         <td varlign="middle" width="75%" style="border:none">
           <a href="">SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding</a>
           <br>
-          Yangliu Hu, <strong>Zikai Song*<、strong>, Na Feng, Yawei Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang*
+          Yangliu Hu, <strong>Zikai Song*</strong>, Na Feng, Yawei Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang*
           <br>
           <em>CVPR</em>,2025
           <br>
