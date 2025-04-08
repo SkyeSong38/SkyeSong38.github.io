@@ -43,7 +43,7 @@ Publications
 ---
 
 <table style="border-collapse:collapse; border:none">
-  <tr>
+<!--   <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ICME25.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
           <a href="">SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding</a>
@@ -96,7 +96,7 @@ Publications
             We introduce Ref-GS, a novel approach for directional light factorization in 2D Gaussian splatting, which enables photorealistic view-dependent appearance rendering and precise geometry recovery. 
           </p>
         </td>
-    </tr>
+    </tr> -->
   <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/OFTrack.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
