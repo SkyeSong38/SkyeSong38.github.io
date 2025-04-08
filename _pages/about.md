@@ -16,7 +16,7 @@ News
 ---
 <div style="height: 170px; overflow: auto">
   <ul>
-    <li><strong><font color="red">2025.3</font></strong>: Our Two papers on medical learning are accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
+    <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning are accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
     <li><strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to <strong><em>AAAI'25</em></strong>, congrating to Zhou Hang.</li>
     <li><strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to <strong><em>NeurIPS'24</em></strong>, congrating to Wenbing.</li>
@@ -43,6 +43,42 @@ Publications
 ---
 
 <table style="border-collapse:collapse; border:none">
+  <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/OFTrack.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="">SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding</a>
+          <br>
+          Yangliu Hu, <strong>Zikai Song*<、strong>, Na Feng, Yawei Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang*
+          <br>
+          <em>CVPR</em>,2025
+          <br>
+          <a href="">paper</a>
+          /
+          <a href="">Code</a>
+          <p></p>
+          <p>
+            We propose a Self-Supervised Fragment FineTuning (SF2T), a novel effortless fine-tuning method, employs the rich inherent characteristics of videos for training, while unlocking more fine-grained understanding ability of Video-LLMs. 
+          </p>
+        </td>
+    </tr>
+  <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/OFTrack.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="">Ref-GS: Directional Factorization for 2D Gaussian Splatting</a>
+          <br>
+          Youjia Zhang, Anpei Chen, Yumin Wan, Zikai Song, Junqing Yu, Yawei Luo, Wei Yang*
+          <br>
+          <em>CVPR</em>,2025
+          <br>
+          <a href="https://arxiv.org/pdf/2412.00905">paper</a>
+          /
+          <a href="">Code</a>
+          <p></p>
+          <p>
+            We introduce Ref-GS, a novel approach for directional light factorization in 2D Gaussian splatting, which enables photorealistic view-dependent appearance rendering and precise geometry recovery. 
+          </p>
+        </td>
+    </tr>
   <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/OFTrack.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
