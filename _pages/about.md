@@ -14,7 +14,7 @@ I major in Computer Science and my research interests lie in the areas of **comp
 
 News
 ---
-<div style="height: 170px; overflow: auto">
+<div style="height: 200px; overflow: auto">
   <ul>
     <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning are accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
