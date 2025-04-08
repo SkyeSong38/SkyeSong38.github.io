@@ -16,10 +16,13 @@ News
 ---
 <div style="height: 170px; overflow: auto">
   <ul>
-    <li><strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to <strong><em>AAAI'25</em></strong>.</li>
-    <li><strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to <strong><em>NeurIPS'24</em></strong>.</li>
+    <li><strong><font color="red">2025.3</font></strong>: Our Two papers on medical learning are accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
+    <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
+    <li><strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to <strong><em>AAAI'25</em></strong>, congrating to Zhou Hang.</li>
+    <li><strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to <strong><em>NeurIPS'24</em></strong>, congrating to Wenbing.</li>
     <li><strong><font color="red">2024.7</font></strong>: Our paper on Point Tracking is accepted to <strong><em>ACM MM'24</em></strong>.</li>
-    <li><strong><font color="red">2024.3</font></strong>: Our paper on Feature Compress is accepted to <strong><em>ICME'24</em></strong>.</li>
+    <li><strong><font color="red">2024.3</font></strong>: Our paper on Feature Compress is accepted to <strong><em>ICME'24</em></strong>, congrating to Tang Yin</li>
+    <li><strong><font color="red">2023.12</font></strong>: Our paper on MOT is accepted to <strong><em>AAAI'24</em></strong>, congrating to Luo Run.</li>
   </ul>
 </div>
 
