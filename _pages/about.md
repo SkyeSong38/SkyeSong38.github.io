@@ -16,8 +16,9 @@ News
 ---
 <div style="height: 200px; overflow: auto">
   <ul>
-    <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning are accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
+    <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning is accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
+    <li><strong><font color="red">2025.2</font></strong>: Our paper on MLLM is accepted to <strong><em>ICLR'25 Spotlight</em></strong>, congrating to Luo Run</li>
     <li><strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to <strong><em>AAAI'25</em></strong>, congrating to Zhou Hang.</li>
     <li><strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to <strong><em>NeurIPS'24</em></strong>, congrating to Wenbing.</li>
     <li><strong><font color="red">2024.7</font></strong>: Our paper on Point Tracking is accepted to <strong><em>ACM MM'24</em></strong>.</li>
@@ -93,6 +94,27 @@ Publications
           <p></p>
           <p>
             We introduce Ref-GS, a novel approach for directional light factorization in 2D Gaussian splatting, which enables photorealistic view-dependent appearance rendering and precise geometry recovery. 
+          </p>
+        </td>
+    </tr>
+  <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ICLR25.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="">Deem: Diffusion models serve as the eyes of large language models for image perception</a>
+          <br>
+          Run Luo, Yunshui Li, Longze Chen, Wanwei He, Ting-En Lin, Ziqiang Liu, Lei Zhang, **Zikai Song**, Xiaobo Xia, Tongliang Liu, Min Yang, Binyuan Hui
+          <br>
+          <em>ICLR</em>,2025
+          <font color="tomato">
+            <strong>(Spotlight)</strong>
+          </font>
+          <br>
+          <a href="https://arxiv.org/pdf/2405.15232">paper</a>
+          /
+          <a href="">code</a>
+          <p></p>
+          <p>
+            We propose DEEM, a simple but effective approach that utilizes the generative feedback of diffusion models to align the semantic distributions of the image encoder. 
           </p>
         </td>
     </tr>
