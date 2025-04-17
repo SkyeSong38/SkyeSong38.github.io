@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doctor at the Huazhong University of Science and Technology (华中科技大学), in the [HUST Media Lab (智能媒体计算与网络安全实验室)](http://media.hust.edu.cn), under the supervision of Prof. [Junqing Yu (于俊清)](http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm). I am currently as an visiting scholar at the National University of Singapore (NUS), under the supervision of Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang).
+I am a Post-Doctor at the Huazhong University of Science and Technology (华中科技大学), in the [HUST Media Lab (智能媒体计算与网络安全实验室)](http://media.hust.edu.cn){:style="text-decoration: none"}, under the supervision of Prof. [Junqing Yu (于俊清)](http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm){:style="text-decoration: none"}. I am currently as an visiting scholar at the National University of Singapore (NUS), under the supervision of Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang){:style="text-decoration: none"}.
 I major in Computer Science and my research interests lie in the areas of **computer vision**, **motion estimation**, and **social network analysis**.
 
 News
@@ -31,9 +31,9 @@ News
 
 Education
 ---
-* B.S. in [University of Electronic Science and Technology of China](https://www.en.scse.uestc.edu.cn), 2012~2016
-* M.S. in [Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2016~2019
-* Ph.D in [Huazhong University of Science and Technology](https://cs.hust.edu.cn), 2019~2023
+* B.S. in University of Electronic Science and Technology of China (电子科技大学), 2012~2016
+* M.S. in Huazhong University of Science and Technology (华中科技大学), 2016~2019
+* Ph.D in Huazhong University of Science and Technology (华中科技大学), 2019~2023
 
 Award and Service
 ---
