@@ -24,6 +24,9 @@ News
     <li><strong><font color="red">2024.7</font></strong>: Our paper on Point Tracking is accepted to <strong><em>ACM MM'24</em></strong>.</li>
     <li><strong><font color="red">2024.3</font></strong>: Our paper on Feature Compress is accepted to <strong><em>ICME'24</em></strong>, congrating to Tang Ying</li>
     <li><strong><font color="red">2023.12</font></strong>: Our paper on MOT is accepted to <strong><em>AAAI'24</em></strong>, congrating to Luo Run.</li>
+    <li><strong><font color="red">2022.12</font></strong>: Our paper on SOT is accepted to <strong><em>AAAI'23</em></strong>.</li>
+    <li><strong><font color="red">2022.2</font></strong>: Our paper on SOT is accepted to <strong><em>CVPR'22</em></strong>.</li>
+    <li><strong><font color="red">2021.8</font></strong>: Our paper on SOT is accepted to <strong><em>ICMR'21</em></strong>.</li>
   </ul>
 </div>
 
