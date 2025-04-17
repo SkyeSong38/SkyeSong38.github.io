@@ -84,7 +84,7 @@ Publications
         <td varlign="middle" width="75%" style="border:none">
           <a href="">Ref-GS: Directional Factorization for 2D Gaussian Splatting</a>
           <br>
-          Youjia Zhang, Anpei Chen, Yumin Wan, Zikai Song, Junqing Yu, Yawei Luo, Wei Yang*
+          Youjia Zhang, Anpei Chen, Yumin Wan, <strong>Zikai Song</strong>, Junqing Yu, Yawei Luo, Wei Yang*
           <br>
           <em>CVPR</em>,2025
           <br>
@@ -102,7 +102,7 @@ Publications
         <td varlign="middle" width="75%" style="border:none">
           <a href="">Deem: Diffusion models serve as the eyes of large language models for image perception</a>
           <br>
-          Run Luo, Yunshui Li, Longze Chen, Wanwei He, Ting-En Lin, Ziqiang Liu, Lei Zhang, **Zikai Song**, Xiaobo Xia, Tongliang Liu, Min Yang, Binyuan Hui
+          Run Luo, Yunshui Li, Longze Chen, Wanwei He, Ting-En Lin, Ziqiang Liu, Lei Zhang, <strong>Zikai Song</strong>, Xiaobo Xia, Tongliang Liu, Min Yang, Binyuan Hui
           <br>
           <em>ICLR</em>,2025
           <font color="tomato">
