@@ -18,7 +18,7 @@ News
   <ul>
     <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning is accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
-    <li><strong><font color="red">2025.2</font></strong>: Our paper on MLLM is accepted to <strong><em>ICLR'25 Spotlight</em></strong>, congrating to Luo Run</li>
+    <li><strong><font color="red">2025.2</font></strong>: Our paper on MLLM is accepted to <strong><em>ICLR'25 Spotlight</em></strong>, congrating to Luo Run.</li>
     <li><strong><font color="red">2024.12</font></strong>: Our Two papers on Tracking/Anomaly Detection are accepted to <strong><em>AAAI'25</em></strong>, congrating to Zhou Hang.</li>
     <li><strong><font color="red">2024.9</font></strong>: Our paper on Multimodal Tech is accepted to <strong><em>NeurIPS'24</em></strong>, congrating to Wenbing.</li>
     <li><strong><font color="red">2024.7</font></strong>: Our paper on Point Tracking is accepted to <strong><em>ACM MM'24</em></strong>.</li>
