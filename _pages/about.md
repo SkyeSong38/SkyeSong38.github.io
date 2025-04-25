@@ -48,7 +48,7 @@ Publications
 <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ICME25.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
-          <a href="">SF2T: Self-supervised Fragment Finetuning of Video-LLMs for Fine-Grained Understanding</a>
+          <a href="">CA-Diff: Collaborative Anatomy Diffusion for Brain Tissue Segmentation</a>
           <br>
           Qilong Xing, <strong>Zikai Song*</strong>, Yuteng Ye, Yuke Chen, Youjia Zhang, Na Feng, Junqing Yu, Wei Yang*
           <br>
