@@ -39,7 +39,7 @@ Award and Service
 ---
 * ACM Outstanding Student
 * Outstanding Doctoral Scholarship
-* Conference PC/Reviewers : CVPR23/24/25, ICCV23, ECCV24, AAAI24/25, NIPS24, ICLR25, ACM MM24, IJCAI24
+* Conference PC/Reviewers : CVPR23/24/25, ICCV23/25, ECCV24, AAAI24/25, NIPS24/25, ICLR25, ACM MM24/25, IJCAI24
 * Journal Reviewers : TIP, PR, TCSVT, TMM, KBS, SIGPRO
 
 Publications
