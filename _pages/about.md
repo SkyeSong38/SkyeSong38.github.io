@@ -15,6 +15,7 @@ News
 ---
 <div style="height: 200px; overflow: auto">
   <ul>
+    <li><strong><font color="red">2025.4</font></strong>: Our paper on 3D learning is accepted to <strong><em>IJCAI'25</em></strong>, congrating to Youjia.</li>
     <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning is accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our paper on MLLM is accepted to <strong><em>ICLR'25 Spotlight</em></strong>, congrating to Luo Run.</li>
@@ -45,6 +46,24 @@ Award and Service
 Publications
 ---
 <table style="border-collapse:collapse; border:none">
+  <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/IJCAI25.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="">Optimized View and Geometry Distillation from Multi-view Diffuser</a>
+          <br>
+          Youjia Zhang, <strong>Zikai Song*</strong>, Junqing Yu, Yawei Luo, Wei Yang*
+          <br>
+          <em>IJCAI</em>,2025
+          <br>
+          <a href="">paper</a>
+          /
+          <a href="">code</a>
+          <p></p>
+          <p>
+            We introduce an Unbiased Score Distillation (USD) that utilizes unconditioned noises from a 2D diffusion model, greatly refining the radiance field fidelity.
+          </p>
+        </td>
+    </tr>
 <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ICME25.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
