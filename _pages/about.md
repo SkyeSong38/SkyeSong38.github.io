@@ -51,7 +51,7 @@ Publications
         <td varlign="middle" width="75%" style="border:none">
           <a href="">Optimized View and Geometry Distillation from Multi-view Diffuser</a>
           <br>
-          Youjia Zhang, <strong>Zikai Song*</strong>, Junqing Yu, Yawei Luo, Wei Yang*
+          Youjia Zhang, <strong>Zikai Song</strong>, Junqing Yu, Yawei Luo, Wei Yang*
           <br>
           <em>IJCAI</em>,2025
           <br>
