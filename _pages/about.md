@@ -15,7 +15,7 @@ News
 ---
 <div style="height: 200px; overflow: auto">
   <ul>
-    <li><strong><font color="red">2025.4</font></strong>: Our paper on Social Analysis is accepted to <strong><em>ACL'25</em></strong> findings, congrating to Yunyao.</li>
+    <li><strong><font color="red">2025.5</font></strong>: Our paper on Social Analysis is accepted to <strong><em>ACL'25</em></strong> findings, congrating to Yunyao.</li>
     <li><strong><font color="red">2025.4</font></strong>: Our paper on 3D learning is accepted to <strong><em>IJCAI'25</em></strong>, congrating to Youjia.</li>
     <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning is accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
