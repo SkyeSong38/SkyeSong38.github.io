@@ -15,6 +15,7 @@ News
 ---
 <div style="height: 200px; overflow: auto">
   <ul>
+    <li><strong><font color="red">2025.4</font></strong>: Our paper on Social Analysis is accepted to <strong><em>ACL'25</em></strong> findings, congrating to Yunyao.</li>
     <li><strong><font color="red">2025.4</font></strong>: Our paper on 3D learning is accepted to <strong><em>IJCAI'25</em></strong>, congrating to Youjia.</li>
     <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning is accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
@@ -46,6 +47,24 @@ Award and Service
 Publications
 ---
 <table style="border-collapse:collapse; border:none">
+  <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ACL25.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="">GA-S3: Comprehensive Social Network Simulation with Group Agents</a>
+          <br>
+          Yunyao Zhang, <strong>Zikai Song*</strong>, Hang Zhou, Wenfeng Ren, Yi-Ping Phoebe Chen, Junqing Yu, Wei Yang
+          <br>
+          <em>ACL</em> findings, 2025
+          <br>
+          <a href="">paper</a>
+          /
+          <a href="">code</a>
+          <p></p>
+          <p>
+            In this study, we propose a comprehensive Social network Simulation System that leverages newly designed Group Agents to make intelligent decisions regarding various online events.
+          </p>
+        </td>
+    </tr>
   <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/IJCAI25.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
