@@ -15,7 +15,8 @@ News
 ---
 <div style="height: 200px; overflow: auto">
   <ul>
-    <li><strong><font color="red">2025.5</font></strong>: Our paper on Social Analysis is accepted to <strong><em>ACL'25</em></strong> findings, congrating to Yunyao.</li>
+    <li><strong><font color="red">2025.6</font></strong>: Our Two papers on Medical Learning is accepted to <strong><em>MICCAI'25</em></strong>, congrating to Qillong.</li>
+    <li><strong><font color="red">2025.5</font></strong>: Our paper on Social Analysis is accepted to <strong><em>ACL'25</em></strong>, congrating to Yunyao.</li>
     <li><strong><font color="red">2025.4</font></strong>: Our paper on 3D learning is accepted to <strong><em>IJCAI'25</em></strong>, congrating to Youjia.</li>
     <li><strong><font color="red">2025.3</font></strong>: Our paper on medical learning is accepted to <strong><em>ICME'25</em></strong>, congrating to Qilong.</li>
     <li><strong><font color="red">2025.2</font></strong>: Our Two papers on VLLM/3D are accepted to <strong><em>CVPR'25</em></strong>, congrating to Yangliu and Youjia.</li>
@@ -413,3 +414,5 @@ Project
 * 2024 主持中国博士后科学基金面上项目
 * 2024 主持国家自然青年科学基金青年基金项目
 * 2024 主持湖北省博新计划项目
+* 2025 主持中国博士后科学基金特别资助
+* 2025 入选CSC国家公派博士后项目
