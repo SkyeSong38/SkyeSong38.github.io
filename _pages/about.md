@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doctor at the Huazhong University of Science and Technology (华中科技大学), in the [HUST Media Lab (智能媒体计算与网络安全实验室)](http://media.hust.edu.cn){:style="text-decoration: none"}, under the supervision of Prof. [Junqing Yu (于俊清)](http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm){:style="text-decoration: none"}. I am currently as an visiting scholar at the National University of Singapore (NUS), under the supervision of Prof. [Xinchao Wang](https://sites.google.com/site/sitexinchaowang){:style="text-decoration: none"}.
+I am a research fellow at the Huazhong University of Science and Technology (华中科技大学), in the [HUST Media Lab (智能媒体计算与网络安全实验室)](http://media.hust.edu.cn){:style="text-decoration: none"}, collaborating with Prof. [Junqing Yu (于俊清)](http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm){:style="text-decoration: none"}.
 I major in Computer Science and my research interests lie in the areas of **computer vision**, **multimedia models**, **motion estimation**, and **social media analysis**.
 
 News
 ---
 <div style="height: 200px; overflow: auto">
   <ul>
+    <li><strong><font color="red">2026.1</font></strong>: Our paper on LLM tuning is accepted to <strong><em>ICLR'26</em></strong>, congrating to Wenbing.</li>
     <li><strong><font color="red">2025.6</font></strong>: We won <strong><em>1st</em></strong> place in the Video Track and <strong><em>3rd</em></strong> place in the Image Track at the 2025 ACM MM Social Media Prediction Challenge!.</li>
     <li><strong><font color="red">2025.6</font></strong>: Our Two papers on Medical Learning is accepted to <strong><em>MICCAI'25</em></strong>, congrating to Qillong.</li>
     <li><strong><font color="red">2025.5</font></strong>: Our paper on Social Analysis is accepted to <strong><em>ACL'25</em></strong>, congrating to Yunyao.</li>
@@ -33,18 +34,19 @@ News
   </ul>
 </div>
 
-Education
+Experience
 ---
 * B.S. in University of Electronic Science and Technology of China (电子科技大学), 2012~2016
 * M.S. in Huazhong University of Science and Technology (华中科技大学), 2016~2019
 * Ph.D in Huazhong University of Science and Technology (华中科技大学), 2019~2023
+* Research Fellow in National University of Singapore (NUS), 2025~2026
 
 Award and Service
 ---
 * ACM Outstanding Student
 * Outstanding Doctoral Scholarship
-* Conference PC/Reviewers : CVPR23/24/25, ICCV23/25, ECCV24, AAAI24/25, NIPS24/25, ICLR25, ACM MM24/25, IJCAI24
-* Journal Reviewers : TIP, PR, TCSVT, TMM, KBS, SIGPRO
+* Conference PC/Reviewers: CVPR23/24/25/26, ICCV23/25, ECCV24/26, ICML26, ACL26, AAAI24/25/26, NIPS24/25, ICLR25, ACM MM24/25, IJCAI24/25
+* Journal Reviewers: TIP, PR, TCSVT, TMM, KBS, SIGPRO
 
 Publications
 ---
