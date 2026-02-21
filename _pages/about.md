@@ -49,7 +49,7 @@ Award and Service
 * Conference Reviewers: CVPR23/24/25/26, ICCV23/25, ECCV24/26, ICML26, ACL26, AAAI24/25/26, NIPS24/25, ICLR25, ACM MM24/25, IJCAI24/25
 * Journal Reviewers: TIP, PR, TCSVT, TMM, KBS, SIGPRO
 
-Publications
+Publications <div><a href="https://scholar.google.com/citations?user=1qnuOZsAAAAJ">full list</div>
 ---
 <table style="border-collapse:collapse; border:none">
   <tr>
