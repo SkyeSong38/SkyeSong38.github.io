@@ -15,6 +15,8 @@ News
 ---
 <div style="height: 200px; overflow: auto">
   <ul>
+    <li><strong><font color="red">2026.7</font></strong>: Our two papers are accepted to <strong><em>ACM MM'26</em></strong>, congrating to Beibei and Dali.</li>
+    <li><strong><font color="red">2026.5</font></strong>: Our paper is accepted to <strong><em>ICML'26</em></strong>, congrating to Tang Ying.</li>
     <li><strong><font color="red">2026.4</font></strong>: Our Two papers are accepted to <strong><em>ACL'26 Main</em></strong>, congrating to Yunyao and Xinglang.</li>
     <li><strong><font color="red">2026.2</font></strong>: Our Three papers are accepted to <strong><em>CVPR'26</em></strong>, congrating to Sichen.</li>
     <li><strong><font color="red">2026.1</font></strong>: Our paper on LLM tuning is accepted to <strong><em>ICLR'26</em></strong>, congrating to Wenbing.</li>
