@@ -18,7 +18,7 @@ I’m looking for PhD & Master students starting in Sep 2027, positions are open
 
 News
 ---
-<div style="height: 200px; overflow: auto">
+<div style="height: 500px; overflow: auto">
   <ul>
     <li><strong><font color="red">2026.7</font></strong>: Our two papers are accepted to <strong><em>ACM MM'26</em></strong>, congrating to Beibei and Dali.</li>
     <li><strong><font color="red">2026.5</font></strong>: Our paper is accepted to <strong><em>ICML'26</em></strong>, congrating to Tang Ying.</li>
