@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow at the Huazhong University of Science and Technology (华中科技大学), in the [HUST Media Lab (智能媒体计算与网络安全实验室)](http://media.hust.edu.cn){:style="text-decoration: none"}, collaborating with Prof. [Junqing Yu (于俊清)](http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm){:style="text-decoration: none"}.
-
-My search area centers on **Artificial Intelligence for Social Cognition**. This encompasses a wide spectrum of cutting-edge topics, including but not limited to:
-
+I am a research fellow at the Huazhong University of Science and Technology (华中科技大学), in the [HUST Media Lab (智能媒体计算与网络安全实验室)](http://media.hust.edu.cn){:style="text-decoration: none"}, collaborating with Prof. [Junqing Yu (于俊清)](http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm){:style="text-decoration: none"}. My search area centers on **Artificial Intelligence for Social Cognition**. This encompasses a wide spectrum of cutting-edge topics, including but not limited to:
 - Foundation and Multimodal Models
 - Intelligent Agents
 - Social Modeling
