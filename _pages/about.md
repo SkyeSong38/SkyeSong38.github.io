@@ -9,7 +9,15 @@ redirect_from:
 ---
 
 I am a research fellow at the Huazhong University of Science and Technology (华中科技大学), in the [HUST Media Lab (智能媒体计算与网络安全实验室)](http://media.hust.edu.cn){:style="text-decoration: none"}, collaborating with Prof. [Junqing Yu (于俊清)](http://faculty.hust.edu.cn/yujunqing/zh_CN/more/370059/jsjjgd/index.htm){:style="text-decoration: none"}.
-I major in Computer Science and my research interests lie in the areas of **computer vision**, **multimedia models**, **motion estimation**, and **social media analysis**.
+
+My search area centers on **Artificial Intelligence for Social Cognition**. This encompasses a wide spectrum of cutting-edge topics, including but not limited to:
+
+- Foundation and Multimodal Models
+- Intelligent Agents
+- Social Modeling
+- Trustworthy AI Reasoning
+
+I’m looking for PhD & Master students starting in Sep 2027, positions are open through both the School of Computer Science and Technology (计算机学院) and the School of Cyber Science and Engineering (网络空间安全学院). If you’re interested, please email me your CV.
 
 News
 ---
@@ -40,17 +48,18 @@ News
 
 Experience
 ---
-* B.S. in University of Electronic Science and Technology of China (电子科技大学), 2012~2016
-* M.S. in Huazhong University of Science and Technology (华中科技大学), 2016~2019
-* Ph.D in Huazhong University of Science and Technology (华中科技大学), 2019~2023
-* Research Fellow in National University of Singapore (NUS), 2025~2026
+* B.S. in University of Electronic Science and Technology of China (电子科技大学)
+* M.S. in Huazhong University of Science and Technology (华中科技大学)
+* Ph.D in Huazhong University of Science and Technology (华中科技大学)
+* Research Fellow in National University of Singapore (NUS)
 
 Award and Service
 ---
 * ACM Outstanding Student
 * Outstanding Doctoral Scholarship
+* Area Chair: ACM MM 2026
 * Conference Reviewers: CVPR23/24/25/26, ICCV23/25, ECCV24/26, ICML26, ACL26, AAAI24/25/26, NIPS24/25, ICLR25, ACM MM24/25, IJCAI24/25
-* Journal Reviewers: TIP, PR, TCSVT, TMM, KBS, SIGPRO
+* Journal Reviewers: TPAMI, TIP, PR, TCSVT, TMM, KBS, SIGPRO
 
 Publications <span style="font-size: smaller; font-weight: normal;"><a href="https://scholar.google.com/citations?user=1qnuOZsAAAAJ">(full list)</a></span>
 ---
@@ -414,12 +423,3 @@ Publications <span style="font-size: smaller; font-weight: normal;"><a href="htt
         </td>
     </tr>
 </table>
-
-Project
----
-* 2023 入选国家资助博士后计划
-* 2024 主持中国博士后面上项目
-* 2024 主持国自然青年基金项目
-* 2024 主持湖北省博新计划项目
-* 2025 主持中国博士后特别资助项目
-* 2025 入选CSC国家公派博士后项目
