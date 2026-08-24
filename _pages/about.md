@@ -68,8 +68,6 @@ Publications <span style="font-size: smaller; font-weight: normal;"><a href="htt
           <br>
           Zikai Song, Xiajie Li, Yunyao Zhang, Xinglang Zhang, Wei Yang, Junqing Yu
           <br>
-          <em>ACL</em> findings, 2025
-          <br>
           <a href="https://doi.org/10.13140/RG.2.2.21157.87528">paper</a>
           /
           <a href="https://github.com/sait-crypto/Awesome-Social-Intelligence-Modeling-System">project</a>
