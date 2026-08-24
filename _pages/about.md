@@ -62,6 +62,24 @@ Publications <span style="font-size: smaller; font-weight: normal;"><a href="htt
 ---
 <table style="border-collapse:collapse; border:none">
   <tr>
+        <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/survey.png" /> </td>
+        <td varlign="middle" width="75%" style="border:none">
+          <a href="https://doi.org/10.13140/RG.2.2.21157.87528">Social Intelligence Modeling: A Comprehensive Survey from Social Perception to Social Simulation</a>
+          <br>
+          Zikai Song, Xiajie Li, Yunyao Zhang, Xinglang Zhang, Wei Yang, Junqing Yu
+          <br>
+          <em>ACL</em> findings, 2025
+          <br>
+          <a href="https://doi.org/10.13140/RG.2.2.21157.87528">paper</a>
+          /
+          <a href="https://github.com/sait-crypto/Awesome-Social-Intelligence-Modeling-System">project</a>
+          <p></p>
+          <p>
+            Can AI understand and shape society responsibly? We introduce Social Intelligence Modeling (SIM), a comprehensive survey that organizes 1,000+ studies into a unified roadmap, guiding researchers to study AI-driven social intelligence and simulation.
+          </p>
+        </td>
+    </tr>
+  <tr>
         <td varlign="middle" width="25%" style="border:none"> <img src="https://skyesong38.github.io/images/ACL25.png" /> </td>
         <td varlign="middle" width="75%" style="border:none">
           <a href="">GA-S3: Comprehensive Social Network Simulation with Group Agents</a>
